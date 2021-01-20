@@ -5,8 +5,9 @@
 
 body {
   margin: auto;
-  padding: 2rem;
+  padding: 2rem 5rem;
   background-color: #d1fae5;
+  align-content: center;
 }
 input {
   width: 80%;
