@@ -81,6 +81,14 @@ export default function App() {
           </span>
         );
       })}
+      <hr />
+      <footer className="footer">
+        <h1 className="footer-header">About an App</h1>
+        <p className="para">
+          You can use this app to select emoji or type emoji to know the meaning
+          of an emoji.
+        </p>
+      </footer>
     </div>
   );
 }
